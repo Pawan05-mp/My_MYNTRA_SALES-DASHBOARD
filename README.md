@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built on Myntra e-commerce data, coveri
 
 ---
 
-## 📊 Overview
+## Overview
 
 This dashboard answers key business questions such as:
 
@@ -20,7 +20,7 @@ This dashboard answers key business questions such as:
 
 ---
 
-## 🔑 Key Metrics (KPIs)
+## Key Metrics (KPIs)
 
 | Metric | Value |
 |---|---|
@@ -31,7 +31,7 @@ This dashboard answers key business questions such as:
 
 ---
 
-## 📈 Visuals Included
+## Visuals Included
 
 - **Total Revenue by Brand Name** — horizontal bar chart comparing brand performance (Puma, H&M, Roadster, HereAndNow, Adidas, HRX)
 - **Total Orders by City** — bar chart ranking top cities (Bengaluru, Ahmedabad, Prayagraj, Patiala, Jaipur, and more) by order volume
@@ -41,8 +41,7 @@ This dashboard answers key business questions such as:
 
 ---
 
-## 🗂️ Dataset Structure
-
+## Dataset Structure
 The dataset (`Myntra_dataset.xlsx`) follows a **star schema** with three tables:
 
 ### `dim_products` (3,071 rows)
@@ -79,7 +78,7 @@ The dataset (`Myntra_dataset.xlsx`) follows a **star schema** with three tables:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Data modeling:** Star schema (fact + dimension tables) in Excel
 - **Dashboard/Visualization:** Power BI (or your preferred BI tool)
@@ -87,7 +86,7 @@ The dataset (`Myntra_dataset.xlsx`) follows a **star schema** with three tables:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository.
 2. Open `Myntra_dataset.xlsx` to explore the raw data (3 sheets: `dim_products`, `dim_customers`, `fact_orders`).
@@ -96,7 +95,7 @@ The dataset (`Myntra_dataset.xlsx`) follows a **star schema** with three tables:
 
 ---
 
-## 📌 Insights at a Glance
+## Insights at a Glance
 
 - **Puma** leads in total revenue among all brands, followed by H&M.
 - **Bengaluru** generates the highest number of orders by a wide margin.
@@ -105,6 +104,6 @@ The dataset (`Myntra_dataset.xlsx`) follows a **star schema** with three tables:
 
 ---
 
-## 📄 License
+## License
 
 This project uses a sample/synthetic e-commerce dataset for educational and portfolio purposes.
