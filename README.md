@@ -1,6 +1,6 @@
 # 🛍️ Myntra Sales Dashboard
 
-![Myntra Sales Dashboard](Myntra_dashboard.png)
+![Myntra Sales Dashboard](dashboard.png)
 
 An interactive sales analytics dashboard built on Myntra e-commerce data, covering **2021–2023**. It tracks orders, revenue, discounts, and customer ratings across brands, categories, cities, and states — helping visualize sales performance and trends at a glance.
 
